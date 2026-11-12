@@ -1,0 +1,8 @@
+INFO Application started
+ERROR Database unavailable
+WARNING Slow response
+ERROR File not found
+WARNING Disk nearly full
+ERROR Operation failed
+WARNING Queue growing
+INFO Application finished

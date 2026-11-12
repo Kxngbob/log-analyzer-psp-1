@@ -1,0 +1,10 @@
+Java 21 compilation: PASS
+Real JUnit Jupiter 5.11.4 runner: PASS
+Teacher AvaluadorPracticaTest (supplied unchanged): 3 tests passed, 0 failed
+Teacher automatic score: 6.00 / 6.00
+9 supplementary checks: PASS
+Large input: 300,000 lines, 100,000 ERROR and 100,000 WARNING, PASS
+Default result: RESULTAT: ERRORS=3 | WARNINGS=3 | EXIT_CODE=0
+Windows IntelliJ run: confirm on student machine
+Maven CLI: not executed here
+Manual grading: pending teacher review
